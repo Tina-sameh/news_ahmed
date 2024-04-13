@@ -1,0 +1,13 @@
+{
+"newsApp": "NewsApp",
+"sports": "Sports",
+"technology": "Technology",
+"health": "Health",
+"bussiness": "Bussiness",
+"entertainment": "Entertainment",
+"science": "Science",
+"settings": "Settings",
+"category": "Category",
+"lang": "Language",
+"message": "Pick Your category of interest"
+}
